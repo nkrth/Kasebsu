@@ -1,2 +1,2 @@
 # Kasebsu
-A very simple basic music player.
+A very Awesome basic music player.
